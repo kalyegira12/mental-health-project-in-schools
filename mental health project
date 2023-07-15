@@ -1,0 +1,68 @@
+#this is a mental health software that help people with related issues. (kalyegira Emmanuel. M23b13/005)
+
+SUBPROBLEM;
+1. Depression.
+2. Anxiety.
+3. Suicidal thoughts.
+#arrays for subproblems of mental health ("depression","anxety","suicidal thoughts")
+
+pseudocode solutions 
+
+sub-problem 1: depression
+def that asks the person how they feel.
+
+functiontogetsthepersonsinformation() {
+  #diagonis the user if they are depressed
+    firstname = "edgar"
+    lastname = "Gardner"
+    #ask the user for the first name and last name
+    #array for causes of depression ("sad","loss of interest in activities")
+
+}
+def to know if the user is sad or less interested in activities
+
+#if they are sad, ("show youtube motivational videos from different therapists")
+  else
+  ("provide links for motivational books")
+  
+#if they are less interested in different activities, ("connect to a therapist")
+  else
+  ("connect to the conselling department")
+ 
+ 
+subproblem 2:anxiety
+functiontogetthepersonsinformation(){
+firstname = emmanuel
+lastname = newton
+
+   #ask the user first name and last name
+   #array for causes of anxiety("worry","stress")
+   #ask the user how they feel
+}
+def to know if the user is worried or fear
+
+#if they are worried,("connect to spirtual leaders")
+ else 
+ ("connect to peer consellors")
+ 
+ #if they are stressed,("connect to yoga instractor")
+    else
+    ("add to life group")
+    
+subproblem 3: suicidal thoughts.
+functiontogettheperson'sinformation(){
+    #ask the user first name and last name
+    firstname = racheal
+    secondname = namara
+    
+    #array for causes of suicidal thoughts("Death thoughts","Hopelessness")
+    #ask the user how they feel
+}
+def to know if the user is having death thoughts or hopelessness
+ #if they have death thoughts,("show links to YouTube videos about self-worth")
+  else 
+  (" then connect to a therapist")
+  
+#if they are hopeless,("connect to a spiritual leader")
+    else
+    ("provide books that help the hopeless")
